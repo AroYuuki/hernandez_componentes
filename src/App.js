@@ -18,8 +18,9 @@ function App() {
  <div>
         <h1>FERNANDO HERNANDEZ PRACTICA COMPONENTES</h1>
         <Button><a href="https://utd.edu.mx">UTD</a></Button>
-        <Button primary><a href="https://www.instagram.com/aroyuuki/">instagram</a></Button>
-        
+        <Button primary><a href="https://www.instagram.com/aroyuuki/">Instagram</a></Button>
+        <Button><a href="https://github.com/AroYuuki/hernandez_componentes.git">GitHub</a></Button>
+
 
       </div>
       
